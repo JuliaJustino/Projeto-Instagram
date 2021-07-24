@@ -1,0 +1,129 @@
+body{
+    background-color: #f3f3f3;
+}
+.caixaum{
+    position:absolute;
+	left:30%;
+	top:10%;
+    background-color: #ffffff;
+    padding:2% 5% 2% 5%;
+    border: auto;
+    border-bottom:5px;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.404);
+}
+.caixaDois{
+    position:absolute;
+	left:30%;
+	top:105%;
+    background-color: #ffffff;
+    padding:2% 12% 1% 5%;
+    border:auto;
+    border-bottom:5px;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.404);
+}
+.caixaTres{
+    position:absolute;
+    text-align:center;
+	left:23%;
+	top:120%;
+    background-color:#f3f3f3;
+}
+footer{
+    left:20%;
+	top:150%;
+    position:absolute;
+}
+p#conecte{
+    text-align:center;
+    text-indent:80px;
+}
+/*links*/
+a#conta {
+	color:#008cff;
+	text-decoration:none;
+    }
+a {
+    color: #ffffff;
+    text-decoration:none;
+}
+a:hover{
+	text-decoration:none; 
+}
+img#logoinstagram{
+    padding-left:60px;
+}
+p#textinho{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #5e5e5e;
+}
+p#facebook{
+    background: url("../img/facebook.png") no-repeat 10px,5px;
+   font-family: Arial, Helvetica, sans-serif;
+   padding: 10px 0px 10px 0px;
+   background-color:#216cf8;
+   border-radius: 10px;
+   color: #ffffff;
+   text-align: center;
+   font-size: 15px;
+   margin-top:35px;
+   
+}
+p#ou{
+    padding-top: 15px;
+    text-align: center; 
+    border-top:1px #606060 solid;
+    font-family: Arial, Helvetica, sans-serif;
+}
+fieldset{
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: #cecece00;
+}
+input{
+    padding: 5px 100px 10px 20px;
+    background-color: #f0f0f0;
+    border-color: #cecece00;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.192);
+}
+
+
+input:hover, textarea:hover{
+    background-color: #98e0fc67;
+}
+form {
+    width: 500px;
+    margin: auto;
+    border: #ffffff00;
+}
+p#enviar{
+   padding: 10px 0px 10px 0px;
+   background-color: #039728;
+   border-radius: 10px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 16px;
+   color: #ffffff;
+   text-align: center;
+}
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #5e5e5e; 
+}
+p#fim{	
+    display: inline-block;
+	margin:2px;
+    margin-bottom: 5%;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img#android{
+    height: 35%;
+    width: 55%;
+    padding: 0px 0px 100px 0px;
+}
+img#celular{
+    height: 35%;
+    width: 55%;
+}
